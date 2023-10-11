@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "f9a5e2b88c459561",
+    "type": "split",
+    "children": [
+      {
+        "id": "c03e2b5b83939310",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "416767832033cd15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第1阶段C++ 匠心之作 从0到1入门/C++基础入门讲义/C++基础入门.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7e95111070953c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cb5d13454d28d14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22002bd6ec89b6a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "172a6360c64fdb19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1837294848a6471e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5e97cc1fe56fe17c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad3b86f7a4c983de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "908e97eea169da11",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "第1阶段C++ 匠心之作 从0到1入门/C++基础入门讲义/C++基础入门.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "0c1616d1b3d07f78",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "第1阶段C++ 匠心之作 从0到1入门/C++基础入门讲义/C++基础入门.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a9d80de9b28a9fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ac13e12ca2be8668",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "第1阶段C++ 匠心之作 从0到1入门/C++基础入门讲义/C++基础入门.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "416767832033cd15",
+  "lastOpenFiles": [
+    "第4阶段实战-基于多态的企业职工系统/讲义/职工管理系统.md",
+    "第3阶段-C++核心编程 资料/图片/加号运算符重载.png",
+    "第3阶段-C++核心编程 资料/讲义/C++核心编程.md",
+    "第1阶段C++ 匠心之作 从0到1入门/C++基础入门讲义/C++课程安排.md",
+    "第1阶段C++ 匠心之作 从0到1入门/C++基础入门讲义/C++基础入门.md"
+  ]
+}
